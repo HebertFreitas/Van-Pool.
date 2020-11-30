@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437901167111",
+    "firebase_url": "https://vanpoll-una.firebaseio.com",
+    "project_id": "vanpoll-una",
+    "storage_bucket": "vanpoll-una.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437901167111:android:bb5a0bd57ad0af272b78a2",
+        "android_client_info": {
+          "package_name": "com.example.vanpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437901167111-al8lqcejk1tlp6rf9lvv0tabpsctcf65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9eYILZpiadNAUJsHETw_yd1rKyff2Ick"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437901167111-al8lqcejk1tlp6rf9lvv0tabpsctcf65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
